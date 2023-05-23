@@ -1,0 +1,15 @@
+C:\Users\Кот\Desktop\Seminar_03\Revehs_Arrey\bin\Debug\net6.0\Revehs_Arrey.exe
+C:\Users\Кот\Desktop\Seminar_03\Revehs_Arrey\bin\Debug\net6.0\Revehs_Arrey.deps.json
+C:\Users\Кот\Desktop\Seminar_03\Revehs_Arrey\bin\Debug\net6.0\Revehs_Arrey.runtimeconfig.json
+C:\Users\Кот\Desktop\Seminar_03\Revehs_Arrey\bin\Debug\net6.0\Revehs_Arrey.dll
+C:\Users\Кот\Desktop\Seminar_03\Revehs_Arrey\bin\Debug\net6.0\Revehs_Arrey.pdb
+C:\Users\Кот\Desktop\Seminar_03\Revehs_Arrey\obj\Debug\net6.0\Revehs_Arrey.csproj.AssemblyReference.cache
+C:\Users\Кот\Desktop\Seminar_03\Revehs_Arrey\obj\Debug\net6.0\Revehs_Arrey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кот\Desktop\Seminar_03\Revehs_Arrey\obj\Debug\net6.0\Revehs_Arrey.AssemblyInfoInputs.cache
+C:\Users\Кот\Desktop\Seminar_03\Revehs_Arrey\obj\Debug\net6.0\Revehs_Arrey.AssemblyInfo.cs
+C:\Users\Кот\Desktop\Seminar_03\Revehs_Arrey\obj\Debug\net6.0\Revehs_Arrey.csproj.CoreCompileInputs.cache
+C:\Users\Кот\Desktop\Seminar_03\Revehs_Arrey\obj\Debug\net6.0\Revehs_Arrey.dll
+C:\Users\Кот\Desktop\Seminar_03\Revehs_Arrey\obj\Debug\net6.0\refint\Revehs_Arrey.dll
+C:\Users\Кот\Desktop\Seminar_03\Revehs_Arrey\obj\Debug\net6.0\Revehs_Arrey.pdb
+C:\Users\Кот\Desktop\Seminar_03\Revehs_Arrey\obj\Debug\net6.0\Revehs_Arrey.genruntimeconfig.cache
+C:\Users\Кот\Desktop\Seminar_03\Revehs_Arrey\obj\Debug\net6.0\ref\Revehs_Arrey.dll
